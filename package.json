@@ -50,7 +50,7 @@
     ]
   },
   "dependencies": {
-    "@jupyterlab/services": "^0.42.0",
+    "@jupyterlab/services": "^0.49.0",
     "@nteract/display-area": "^2.0.1",
     "@nteract/transform-plotly": "^2.0.1",
     "@nteract/transforms": "^2.0.1",
